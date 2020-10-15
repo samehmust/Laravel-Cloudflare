@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "cloudflare/sdk": "^1.1.6",
+        "cloudflare/sdk": "dev-master",
         "illuminate/support": "^5.5 || ^6.0 || ^7.0"
     },
     "require-dev": {
