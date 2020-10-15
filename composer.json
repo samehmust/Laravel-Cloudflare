@@ -8,6 +8,7 @@
         "laravel",
         "api"
     ],
+    "minimum-stability": "dev",
     "license": "Apache-2.0",
     "authors": [
         {
